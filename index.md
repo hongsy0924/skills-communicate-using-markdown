@@ -15,3 +15,7 @@ function goatFinder(): string {
 
 console.log(goatFinder())
 ```
+
+- [ ] Turn on nbafantasy
+- [ ] Search "Lebron James"
+- [ ] Add him to your watchlist and worship
