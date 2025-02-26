@@ -6,7 +6,7 @@ The 2024-25 NBA season is halfway through. We have seen rises and falls.
 
 ``` typescript
 
-function goatFinder(): string{
+function goatFinder(): string {
   const whoIsThe : string = "Who is the Goat? ";
   const nbaGoat : string = "King Lebron";
   const ofCourse : string = whoIsThe + nbaGoat;
